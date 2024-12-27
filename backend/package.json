@@ -16,7 +16,7 @@
     "@fastify/oauth2": "^8.1.0",
     "backend": "file:",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "fastify": "^5.1.0",
     "fastify-cors": "^6.1.0",
     "joi-password-complexity": "^5.2.0",
